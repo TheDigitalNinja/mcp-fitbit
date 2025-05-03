@@ -4,6 +4,10 @@ This project implements a Model Context Protocol (MCP) server that acts as a bri
 
 It allows the LLM to request and retrieve health and fitness data from a user's Fitbit account via defined tools.
 
+<a href="https://glama.ai/mcp/servers/@TheDigitalNinja/mcp-fitbit">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@TheDigitalNinja/mcp-fitbit/badge" alt="Fitbit Server MCP server" />
+</a>
+
 ## Features
 
 *   **Fitbit API Integration:** Connects securely to the Fitbit API using OAuth 2.0.
