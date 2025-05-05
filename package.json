@@ -24,7 +24,8 @@
     "express": "^5.1.0",
     "open": "^10.1.2",
     "simple-oauth2": "^5.1.0",
-    "zod": "^3.24.3"
+    "zod": "^3.24.3",
+    "mcp-evals": "^1.0.18"
   },
   "devDependencies": {
     "@types/node": "^22.15.3",
